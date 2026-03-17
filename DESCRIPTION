@@ -1,6 +1,6 @@
 Package: IndivSTATIS
 Title: A Multivariate Framework for Networks Analysis with Individualized Parcellations
-Version: 0.0.0.9000
+Version: 1.0.0
 Authors@R: c(
     person("Ju-Chi", "Yu", , "psyjcyu@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-6360-1861")),
