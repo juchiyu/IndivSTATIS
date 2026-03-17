@@ -14,6 +14,8 @@ IndivSTATIS extracts a shared component space, called the *compromise* to quanti
 
 [https://www.biorxiv.org/content/10.64898/2025.12.19.695601v1](#0)
 
+Code for this preprint can be found on [this github repo](https://github.com/juchiyu/riip)
+
 ------------------------------------------------------------------------
 
 ## IndivSTATIS
