@@ -1,12 +1,24 @@
 Package: IndivSTATIS
-Title: What the Package Does (One Line, Title Case)
+Title: A Multivariate Framework for Networks Analysis with Individualized Parcellations
 Version: 0.0.0.9000
-Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Authors@R: c(
+    person("Ju-Chi", "Yu", , "psyjcyu@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-6360-1861")),
+    person("Micaela", "Chan", "mchan@utdallas.edu", role = c("aut"),
+  comment = c(ORCID = "0000-0001-6854-3755")))
+Description: The IndivSTATIS package provides code for IndivSTATIS: a multivariate methods to analyze multiple connectivity matrices derived from individualized parcellation. IndivSTATIS accommodates for unequal sizes of parcels/networks across individuals (for example, those derived from Gordon et al.'s arrpoach.)
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
+Imports: 
+    DistatisR,
+    dplyr,
+    ExPosition,
+    rsvd,
+    tidyverse
+Remotes:
+  HerveAbdi/DistatisR
+Depends: 
+    R (>= 2.10)
+LazyData: true
