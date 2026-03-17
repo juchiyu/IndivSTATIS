@@ -1,7 +1,9 @@
 # IndivSTATIS
+
 <!-- badges: start -->
-  [![R-CMD-check](https://github.com/juchiyu/IndivSTATIS/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/juchiyu/IndivSTATIS/actions/workflows/R-CMD-check.yaml)
-  [![GitHub release](https://img.shields.io/github/v/release/juchiyu/IndivSTATIS)](https://github.com/juchiyu/IndivSTATIS/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![R-CMD-check](https://github.com/juchiyu/IndivSTATIS/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/juchiyu/IndivSTATIS/actions/workflows/R-CMD-check.yaml) [![GitHub release](https://img.shields.io/github/v/release/juchiyu/IndivSTATIS)](https://github.com/juchiyu/IndivSTATIS/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 <!-- badges: end -->
 
 **IndivSTATIS** introduces a multivariate framework to analyze brain networks with individualized parcellation that allows the numbers of parcels/networks to vary across individuals.
@@ -10,7 +12,7 @@ IndivSTATIS extracts a shared component space, called the *compromise* to quanti
 
 ### Preprint:
 
-[https://www.biorxiv.org/content/10.64898/2025.12.19.695601v1](#0){.uri}
+[https://www.biorxiv.org/content/10.64898/2025.12.19.695601v1](#0)
 
 ------------------------------------------------------------------------
 
