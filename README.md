@@ -1,7 +1,8 @@
 # IndivSTATIS
-
-[![R-CMD-check](https://github.com/juchiyu/IndivSTATIS/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/juchiyu/IndivSTATIS/actions/workflows/R-CMD-check.yaml)\
-[![GitHub release](https://img.shields.io/github/v/release/juchiyu/IndivSTATIS)](https://github.com/juchiyu/IndivSTATIS/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!-- badges: start -->
+  [![R-CMD-check](https://github.com/juchiyu/IndivSTATIS/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/juchiyu/IndivSTATIS/actions/workflows/R-CMD-check.yaml)
+  [![GitHub release](https://img.shields.io/github/v/release/juchiyu/IndivSTATIS)](https://github.com/juchiyu/IndivSTATIS/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!-- badges: end -->
 
 **IndivSTATIS** introduces a multivariate framework to analyze brain networks with individualized parcellation that allows the numbers of parcels/networks to vary across individuals.
 
